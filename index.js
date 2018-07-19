@@ -12,7 +12,7 @@ return array
 
 
 function johnLennonFacts(facts){
-  array=[]
+  var array=[]
   x=0
   while (x<facts.length){
   array.push(facts[x]+"!!!")
